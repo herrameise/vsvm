@@ -1,0 +1,10 @@
+# output
+bin/
+*.vsvm
+
+# C++
+*.o
+
+# Python
+*.pyc
+assembler/__pycache__
